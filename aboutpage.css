@@ -1,0 +1,77 @@
+.me {
+    background-color: grey;
+    width: 700px;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.martin {
+    background-color: aquamarine;
+    height: 50px;
+}
+
+.mark {
+    background-color: brown;
+    height: 50px;
+}
+
+.marble {
+    background-color: blueviolet;
+    height: 50px;
+}
+
+.mom {
+    background-color: grey;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.moon{
+    background-color: aqua;
+    height: 500px;
+    width: 300px;
+    float: left;
+}
+.star{
+    background-color: crimson;
+    height: 500px;
+    width: 300px;
+    float: right;
+}
+.maa{
+    background-color:palegreen;
+    height: 300px;
+    width: 275px;
+    margin-bottom: 10px;
+}
+.mee{
+    background-color: fuchsia;
+    height: 190px;
+    width: 275px;
+    padding-left: 20px;
+}
+
+.dad {
+    background-color: grey;
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.pet {
+    background-color: grey;
+    width: 700px;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 5px;
+    text-align: center;
+}
